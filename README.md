@@ -2,8 +2,6 @@
 
 This Streamlit app allows you to manage passwords with encryption. You can add, retrieve, and remove passwords securely.
 
-`[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)`
-
 ## Installation
 
 1. Clone the repository
