@@ -1,3 +1,5 @@
+<img src="logo.jpeg" alt="Password Manager" width="200"/>
+
 # Password Manager
 
 This Streamlit app allows you to manage passwords with encryption. You can add, retrieve, and remove passwords securely.
